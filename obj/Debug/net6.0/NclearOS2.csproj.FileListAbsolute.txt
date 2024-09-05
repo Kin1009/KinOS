@@ -1,0 +1,5 @@
+C:\Users\Kin\Downloads\NclearOS2\NclearOS2\obj\Debug\net6.0\NclearOS2.csproj.AssemblyReference.cache
+C:\Users\Kin\Downloads\NclearOS2\NclearOS2\obj\Debug\net6.0\NclearOS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kin\Downloads\NclearOS2\NclearOS2\obj\Debug\net6.0\NclearOS2.AssemblyInfoInputs.cache
+C:\Users\Kin\Downloads\NclearOS2\NclearOS2\obj\Debug\net6.0\NclearOS2.AssemblyInfo.cs
+C:\Users\Kin\Downloads\NclearOS2\NclearOS2\obj\Debug\net6.0\NclearOS2.csproj.CoreCompileInputs.cache
